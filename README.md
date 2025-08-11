@@ -38,13 +38,11 @@
 
 ## 🌐 Let's Connect
 - 🌍 Website: [https://lagikoding.com](https://lagikoding.com)
-- 💼 LinkedIn: [linkedin.com/in/USERNAME](https://linkedin.com/in/USERNAME)
-- 🐦 Twitter: [twitter.com/USERNAME](https://twitter.com/USERNAME)
-- 📧 Email: **youremail@example.com**
+- 📧 Email: **admin@lagikoding.com**
 
 ---
 
 > _"Code is like humor. When you have to explain it, it’s bad."_ – Cory House
 
 ---
-⭐️ From [Kurnia Andi](https://github.com/USERNAME)
+⭐️ From [Kurnia Andi](https://github.com/kurniaandi)
