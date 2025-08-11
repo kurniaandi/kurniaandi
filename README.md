@@ -9,6 +9,19 @@
 
 ---
 
+<p align="center">
+  <!-- Tech Stack Badges -->
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge&logo=vue.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nuxt-00C58E?style=for-the-badge&logo=nuxt.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-61DBFB?style=for-the-badge&logo=react&logoColor=black" />
+</p>
+
+---
+
 ## 🧑‍💻 About Me
 - 💼 Founder & Lead Developer at **[LagiKoding.com](https://lagikoding.com)**
 - 🔥 Over **X years** of experience in software development
@@ -37,8 +50,9 @@
 ---
 
 ## 🌐 Let's Connect
-- 🌍 Website: [https://lagikoding.com](https://lagikoding.com)
-- 📧 Email: **admin@lagikoding.com**
+[![Website](https://img.shields.io/badge/Website-LagiKoding.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://lagikoding.com)
+[![Email](https://img.shields.io/badge/Email-admin@lagikoding.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:admin@lagikoding.com)
+[![GitHub](https://img.shields.io/badge/GitHub-kurniaandi-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kurniaandi)
 
 ---
 
