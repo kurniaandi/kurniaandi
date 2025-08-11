@@ -24,7 +24,6 @@
 
 ## 🧑‍💻 About Me
 - 💼 Founder & Lead Developer at **[LagiKoding.com](https://lagikoding.com)**
-- 🔥 Over **X years** of experience in software development
 - 🎯 Focused on **clean code**, **best practices**, and **scalable architecture**
 - 🌱 Lifelong learner who loves exploring new technologies
 
