@@ -2,7 +2,7 @@
   <img src="img/LagiKoding.com.svg" alt="LagiKoding.com Logo" width="600" />
 </p>
 
-# Hi there, I'm Kurnia Andi 👋
+# Hi there, I'm Kurnia Andi
 
 **Fullstack Developer** | Founder of [LagiKoding.com](https://lagikoding.com)  
 Passionate about crafting modern, scalable, and user-friendly web & mobile applications.
