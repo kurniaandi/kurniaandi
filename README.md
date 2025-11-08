@@ -4,8 +4,8 @@
 
 # Hi there, I'm Kurnia Andi 👋
 
-🚀 **Fullstack Developer** | Founder of [LagiKoding.com](https://lagikoding.com)  
-💡 Passionate about crafting modern, scalable, and user-friendly web & mobile applications.
+**Fullstack Developer** | Founder of [LagiKoding.com](https://lagikoding.com)  
+Passionate about crafting modern, scalable, and user-friendly web & mobile applications.
 
 ---
 
@@ -22,10 +22,10 @@
 
 ---
 
-## 🧑‍💻 About Me
-- 💼 Founder & Lead Developer at **[LagiKoding.com](https://lagikoding.com)**
-- 🎯 Focused on **clean code**, **best practices**, and **scalable architecture**
-- 🌱 Lifelong learner who loves exploring new technologies
+##  About Me
+-  Founder & Lead Developer at **[LagiKoding.com](https://lagikoding.com)**
+-  Focused on **clean code**, **best practices**, and **scalable architecture**
+-  Lifelong learner who loves exploring new technologies
 
 ---
 
@@ -42,12 +42,12 @@
 
 ---
 
-## 📈 GitHub Stats
+##  GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kurniaandi&layout=compact&theme=radical)
 
 ---
 
-## 🌐 Let's Connect
+##  Let's Connect
 [![Website](https://img.shields.io/badge/Website-LagiKoding.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://lagikoding.com)
 [![Email](https://img.shields.io/badge/Email-admin@lagikoding.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:admin@lagikoding.com)
 [![GitHub](https://img.shields.io/badge/GitHub-kurniaandi-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kurniaandi)
