@@ -29,7 +29,7 @@ Passionate about crafting modern, scalable, and user-friendly web & mobile appli
 
 ---
 
-## 🛠 Tech Stack & Tools
+##  Tech Stack & Tools
 **Languages & Frameworks**
 - **Backend**: Laravel, Node.js, PHP, Express.js  
 - **Frontend**: React.js, Vue.js, Nuxt.js, Next.js, Framework7  
